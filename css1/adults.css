@@ -1,0 +1,23 @@
+body{
+  font-family: 'Ysabeau Infant', sans-serif;
+  background-image: url("C:/Users/Meghana/Desktop/web development/css-mysite/css1/ad1.png") ;
+background-repeat: round;
+background-blend-mode:soft-light;
+
+}
+p{
+  font-size: 20px;
+  font-weight: bolder;
+  color: #00001a;
+
+}
+h3{
+  font-size: 30px;
+  font-weight: bolder;
+color:#0000ff;
+}
+ul{
+  font-size: 20px;
+  font-weight: bolder;
+  color:#0a0944 ;
+}
